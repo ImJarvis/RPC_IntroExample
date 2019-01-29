@@ -1,0 +1,64 @@
+
+
+Tue Jan 29 18:46:24 2019 :	
+Connection Established with Server 
+Tue Jan 29 18:46:24 2019 :	
+ Calling CreateNewFile 
+Tue Jan 29 18:46:24 2019 :	 Status of Creating New File is =  183
+Tue Jan 29 18:46:24 2019 :	 Status of CopyPaste is =  0
+Tue Jan 29 18:46:24 2019 :	 Calling getFileProperty 
+Tue Jan 29 18:46:24 2019 :	 Status of Get File Property is =  997
+Tue Jan 29 18:46:24 2019 :	 Calling Delete 
+Tue Jan 29 18:46:24 2019 :	Status of DeleteFile is =  0
+Tue Jan 29 18:46:24 2019 :	Connection Established with Server with context Id =  44080656
+Tue Jan 29 18:46:24 2019 :	Calling CreateNewFile 
+Tue Jan 29 18:46:24 2019 :	Status of Creating New File is =  183
+Tue Jan 29 18:46:24 2019 :	Status of CopyPaste is =  0
+Tue Jan 29 18:46:24 2019 :	 Calling getFileProperty 
+Tue Jan 29 18:46:24 2019 :	Status of Get File Property is =  997
+Tue Jan 29 18:46:24 2019 :	 Calling Delete 
+Tue Jan 29 18:46:24 2019 :	Status of DeleteFile is =  0
+Tue Jan 29 18:46:24 2019 :	Connection Closed, Exit
+
+Tue Jan 29 18:46:24 2019 :	Connection Established with Server with context Id =  58419128
+Tue Jan 29 18:46:24 2019 :	Calling CreateNewFile 
+Tue Jan 29 18:46:24 2019 :	Status of Creating New File is =  183
+Tue Jan 29 18:46:24 2019 :	Status of CopyPaste is =  0
+Tue Jan 29 18:46:24 2019 :	 Calling getFileProperty 
+Tue Jan 29 18:46:24 2019 :	Status of Get File Property is =  997
+Tue Jan 29 18:46:24 2019 :	 Calling Delete 
+Tue Jan 29 18:46:24 2019 :	Status of DeleteFile is =  123
+Tue Jan 29 18:46:24 2019 :	Connection Closed, Exit
+Tue Jan 29 18:46:24 2019 :	Connection Established with Server with context Id =  8953248
+Tue Jan 29 18:46:24 2019 :	 Calling CreateNewFile 
+Tue Jan 29 18:46:24 2019 :	Status of Creating New File is =  183
+Tue Jan 29 18:46:24 2019 :	 Calling Copy Paste 
+Tue Jan 29 18:46:24 2019 :	Status of CopyPaste is =  0
+Tue Jan 29 18:46:24 2019 :	 Calling getFileProperty 
+Tue Jan 29 18:46:24 2019 :	Status of Get File Property is =  997
+Tue Jan 29 18:46:24 2019 :	 Calling Delete 
+Tue Jan 29 18:46:24 2019 :	Status of DeleteFile is =  123
+Tue Jan 29 18:46:24 2019 :	Connection Closed, Exit
+Tue Jan 29 18:46:24 2019 :	Connection Established with Server with context Id =  51210896
+Tue Jan 29 18:46:24 2019 :	 Calling CreateNewFile 
+Tue Jan 29 18:46:24 2019 :	Status of Creating New File is =  183
+Tue Jan 29 18:46:24 2019 :	Calling Copy Paste 
+Tue Jan 29 18:46:24 2019 :	Status of CopyPaste is =  0
+Tue Jan 29 18:46:24 2019 :	Calling getFileProperty 
+Tue Jan 29 18:46:24 2019 :	Status of Get File Property is =  997
+Tue Jan 29 18:46:24 2019 :	Calling Delete 
+Tue Jan 29 18:46:24 2019 :	Status of DeleteFile is =  0
+Tue Jan 29 18:46:24 2019 :	Connection Closed, Exit
+Tue Jan 29 18:46:24 2019 :	
+
+
+
+
+Tue Jan 29 18:46:24 2019 :	Connection Established with Server with context Id =  52427520
+Tue Jan 29 18:46:24 2019 :	 Calling CreateNewFile 
+Tue Jan 29 18:46:24 2019 :	Status of Creating New File is =  0
+Tue Jan 29 18:46:24 2019 :	Calling Copy Paste 
+Tue Jan 29 18:46:24 2019 :	Status of CopyPaste is =  0
+Tue Jan 29 18:46:24 2019 :	Calling getFileProperty 
+Tue Jan 29 18:46:24 2019 :	Status of Get File Property is =  997
+Tue Jan 29 18:46:24 2019 :	Calling Delete 
